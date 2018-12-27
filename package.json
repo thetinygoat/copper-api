@@ -1,0 +1,14 @@
+{
+  "name": "copper-api",
+  "version": "0.0.1",
+  "description": "REST API for copper",
+  "main": "server.js",
+  "repository": "https://github.com/thetinygoat/copper-api.git",
+  "author": "Sachin Saini <iamsainisachin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.4.0"
+  }
+}
